@@ -1,0 +1,50 @@
+.black {
+	background-color: black;
+	margin: auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.green {
+	background-color: green;
+	margin: auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.goldenrod {
+	background-color: goldenrod;
+	margin: auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.red {
+	background-color: red;
+	margin: auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.EightBall-msg {
+	color: white;
+}
+
+.EightBall-btn {
+	margin-top: 25px;
+}
